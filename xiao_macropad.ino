@@ -1,5 +1,6 @@
 /*
 jinsungpsu.com
+https://jinsungpsu.com/macropad-custom-keyboard-using-arduino-seeeduino-xiao/
 
 Summary
 This is code for the Seeduino XIAO microcontroller, using Arduino/Keyboard.h library
